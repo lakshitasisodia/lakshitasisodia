@@ -1,15 +1,15 @@
 
 ## Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
-![Engineer](https://img.shields.io/badge/Role-Engineer-red)  
-![Builder](https://img.shields.io/badge/Focus-Builder-yellow)  
-![Fullstack](https://img.shields.io/badge/Tech-Fullstack-blue)  
-![DevOps](https://img.shields.io/badge/Tools-DevOps-green)  
-![AI](https://img.shields.io/badge/Field-AI-purple)  
-![SaaS](https://img.shields.io/badge/Product-SaaS%20Apps-ff69b4)  
-![System Design](https://img.shields.io/badge/Strength-System%20Design-orange)
+
+![Engineer](https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white)  
+![Builder](https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black)  
+![Fullstack](https://img.shields.io/badge/Tech-FULLSTACK-1E90FF?style=for-the-badge&logo=react&logoColor=white)  
+![DevOps](https://img.shields.io/badge/Tools-DEVOPS-32CD32?style=for-the-badge&logo=docker&logoColor=white)  
+![AI](https://img.shields.io/badge/Field-AI-800080?style=for-the-badge&logo=python&logoColor=white)  
+![SaaS](https://img.shields.io/badge/Product-SaaS%20Apps-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white)  
+![System Design](https://img.shields.io/badge/Strength-System%20Design-FFA500?style=for-the-badge&logo=apache&logoColor=white)  
 
 A hands-on, 36-week transformation journey from fundamentals to deploying scalable, AI-powered SaaS products. This GitHub is a curated collection of industry-grade projects, powered by modern stacks and driven by real-world problems. Built with purpose. Shipped with pride.
-
 
 ---
 
