@@ -1,5 +1,6 @@
-
 ## Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
+
+<div align="center">
 
 ![Engineer](https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white)  
 ![Builder](https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black)  
@@ -9,11 +10,14 @@
 ![SaaS](https://img.shields.io/badge/Product-SaaS%20Apps-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white)  
 ![System Design](https://img.shields.io/badge/Strength-System%20Design-FFA500?style=for-the-badge&logo=apache&logoColor=white)  
 
+</div>
+
 A hands-on, 36-week transformation journey from fundamentals to deploying scalable, AI-powered SaaS products. This GitHub is a curated collection of industry-grade projects, powered by modern stacks and driven by real-world problems. Built with purpose. Shipped with pride.
 
 ---
 
 ## 🚀 Highlights  
+
 ✅ End-to-End Development – From wireframes to live deployments  
 ✅ DevOps Practices – CI/CD, Docker, Monitoring, Cloud Infrastructure  
 ✅ AI-Integrated Applications – NLP, ML, GPT APIs, Voice Systems  
@@ -81,6 +85,7 @@ A hands-on, 36-week transformation journey from fundamentals to deploying scalab
 ---
 
 ## 🌟 What’s Next?  
+
 🔹 Open-sourcing a **SaaS Developer Toolkit**  
 🔹 Publishing **case studies** on system architecture & scalability  
 🔹 Launching a **YouTube series** explaining each build  
@@ -100,3 +105,4 @@ A hands-on, 36-week transformation journey from fundamentals to deploying scalab
 
 > 💬 “Built with curiosity. Deployed with precision. Shared with love.”  
 > If you found my work helpful or inspiring, don’t forget to ⭐ my repos or drop a message!
+```
