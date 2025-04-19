@@ -2,7 +2,7 @@
 ## 🐬 Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
 <div align="center">
 
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 100px;">
     <img src="https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black" />
     <img src="https://img.shields.io/badge/Tech-FULLSTACK-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
