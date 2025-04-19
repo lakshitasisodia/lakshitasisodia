@@ -1,6 +1,5 @@
 
-```
-Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
+## Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
 ![Engineer](https://img.shields.io/badge/Role-Engineer-red)  
 ![Builder](https://img.shields.io/badge/Focus-Builder-yellow)  
 ![Fullstack](https://img.shields.io/badge/Tech-Fullstack-blue)  
@@ -10,7 +9,7 @@ Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap
 ![System Design](https://img.shields.io/badge/Strength-System%20Design-orange)
 
 A hands-on, 36-week transformation journey from fundamentals to deploying scalable, AI-powered SaaS products. This GitHub is a curated collection of industry-grade projects, powered by modern stacks and driven by real-world problems. Built with purpose. Shipped with pride.
-```
+
 
 ---
 
