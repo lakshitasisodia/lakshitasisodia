@@ -1,17 +1,15 @@
 
 ## 🐬 Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
 <div align="center">
-
-  <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white" style="margin: 10px;" />
-    <img src="https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black" style="margin: 10px;" />
-    <img src="https://img.shields.io/badge/Tech-FULLSTACK-1E90FF?style=for-the-badge&logo=react&logoColor=white" style="margin: 10px;" />
-    <img src="https://img.shields.io/badge/Tools-DEVOPS-32CD32?style=for-the-badge&logo=docker&logoColor=white" style="margin: 10px;" />
-    <img src="https://img.shields.io/badge/Field-AI-800080?style=for-the-badge&logo=python&logoColor=white" style="margin: 10px;" />
-    <img src="https://img.shields.io/badge/Product-SaaS%20Apps-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white" style="margin: 10px;" />
-    <img src="https://img.shields.io/badge/Strength-System%20Design-FFA500?style=for-the-badge&logo=apache&logoColor=white" style="margin: 10px;" />
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <img src="https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tech-FULLSTACK-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tools-DEVOPS-32CD32?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Field-AI-800080?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Product-SaaS%20Apps-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Strength-System%20Design-FFA500?style=for-the-badge&logo=apache&logoColor=white" />
   </div>
-
 </div>
 
 A hands-on, 36-week transformation journey from fundamentals to deploying scalable, AI-powered SaaS products. This GitHub is a curated collection of industry-grade projects, powered by modern stacks and driven by real-world problems. Built with purpose. Shipped with pride.
