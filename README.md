@@ -1,14 +1,16 @@
 
-## Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
+## 🐬 Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
 <div align="center">
 
-![Engineer](https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white)  
-![Builder](https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black)  
-![Fullstack](https://img.shields.io/badge/Tech-FULLSTACK-1E90FF?style=for-the-badge&logo=react&logoColor=white)  
-![DevOps](https://img.shields.io/badge/Tools-DEVOPS-32CD32?style=for-the-badge&logo=docker&logoColor=white)  
-![AI](https://img.shields.io/badge/Field-AI-800080?style=for-the-badge&logo=python&logoColor=white)  
-![SaaS](https://img.shields.io/badge/Product-SaaS%20Apps-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white)  
-![System Design](https://img.shields.io/badge/Strength-System%20Design-FFA500?style=for-the-badge&logo=apache&logoColor=white)  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tech-FULLSTACK-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tools-DEVOPS-32CD32?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Field-AI-800080?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Product-SaaS%20Apps-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Strength-System%20Design-FFA500?style=for-the-badge&logo=apache&logoColor=white" />
+  </div>
 
 </div>
 
