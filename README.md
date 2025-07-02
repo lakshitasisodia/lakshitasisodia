@@ -1,4 +1,3 @@
-```md
 ## 🐬 Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 20px;">
