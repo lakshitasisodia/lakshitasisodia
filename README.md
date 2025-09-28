@@ -1,11 +1,32 @@
 <a href="https://github.com/lakshitasisodia" target="blank">
-  <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" align="center" alt="Workspace setup banner"/>
+  <img src="https://images.unsplash.com/photo-1612831813446-0480e9bfc0ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" align="center" alt="Workspace" />
 </a>
 
 ---
 
 <h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
 <h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshitasisodia&label=Profile%20views&color=6f42c1&style=flat" alt="lakshitasisodia" />
+</p>
+
+---
+
+### <h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshita-singh-sisodia-796266290" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/graphical_proximity" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://x.com/Grap_Proximity" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+</p>
 
 ---
 
@@ -31,14 +52,6 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### <h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
-</p>
-
----
-
 ### 📂 Featured Projects  
 
 | Project | Tech | Demo |
@@ -49,6 +62,14 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 | 🔍 Research Assistant | Python + GPT + Selenium | Automates research + summarization |
 | 📝 Docs Clone | React + Firebase | Realtime doc collaboration |
 | 🐞 Bug Tracker SaaS | Node.js + Redis + Docker | Scalable multi-user issue tracking |
+
+---
+
+### <h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
+</p>
 
 ---
 
@@ -65,27 +86,10 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### <h2 align="center">📫 Connect with Me</h2>
-
-<p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshita-singh-sisodia-796266290" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/graphical_proximity" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://x.com/Grap_Proximity" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
-
 ### <h2 align="center">💡 Intellectual Quote</h2>
 
 <p align="center">
-  <i>“Simplicity is the ultimate sophistication.” – Leonardo da Vinci</i>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Knowledge%20is%20power,%20but%20wisdom%20is%20elegance.&author=Anonymous&type=horizontal&theme=radical" alt="Intellectual Quote"/>
 </p>
 
 ---
