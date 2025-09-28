@@ -1,108 +1,110 @@
-## 🐬 Lakshita-Sisodia---Fullstack-DevOps-AI-Roadmap  
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="https://img.shields.io/badge/Role-ENGINEER-red?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-BUILDER-FFD700?style=for-the-badge&logo=producthunt&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tech-FULLSTACK-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tools-DEVOPS-32CD32?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Field-AI-800080?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Product-SaaS%20Apps-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white" />
-    <img src="https://img.shields.io/badge/Strength-System%20Design-FFA500?style=for-the-badge&logo=apache&logoColor=white" />
-  </div>
-</div>
+<a href="https://github.com/lakshitasisodia" target="blank">
+  <img src="https://i.imgur.com/VNP2tTx.gif" align="center"/>
+</a>
 
-I’m Lakshita — a product-focused full-stack engineer who ships scalable web apps, DevOps pipelines, and AI-powered tools. I specialize in taking products from idea to deployment using real-world stacks and architecture-first thinking.
+---
 
-I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.
+<h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
+<h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshitasisodia&label=Profile%20views&color=6f42c1&style=flat" alt="lakshitasisodia" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lakshitasisodia&theme=onedark&margin-w=10&margin-h=10" alt="trophies"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/lakshitasisodia" target="blank">
+    <img src="https://media.tenor.com/OF2oQX_PQ9UAAAAM/dfg.gif" width="400px"/>
+  </a>
+</p>
+
+---
+
+### <h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshita-singh-sisodia-796266290" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/graphical_proximity" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://x.com/Grap_Proximity" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+## 🐬 About Me  
+
+I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
+I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
+
+- 🎓 B.Tech in CSBS @ Narula Institute of Technology  
+- 💼 Founder @ **Graphical Proximity (Agency)**  
+- ⚡ SaaS Builder — from MVPs to deployable, monetizable systems  
+- ☁️ DevOps-first — CI/CD, Docker, Terraform, AWS, GitHub Actions  
+- 🧠 AI Integrator — GPT, LangChain, automation, vector DBs  
 
 ---
 
 ## 🚀 Highlights  
-✅ Engineer with a builder's mindset — from UI to infrastructure  
-✅ DevOps-first — CI/CD, Docker, Terraform, AWS, GitHub Actions  
-✅ AI Integrator — GPT, LangChain, automation, and vector databases  
-✅ Architect — System design with a real-world problem-solving lens  
-✅ SaaS Developer — MVPs that are deployable, monetizable, and modular
+
+✅ Builder’s mindset — from UI to infra  
+✅ Architect — system design with scalability in mind  
+✅ AI x DevOps — where automation meets intelligence  
+✅ SaaS Developer — deployable, monetizable, modular  
 
 ---
 
-## 🛠️ Tech Stack  
+### <h2 align="center">🛠️ Tech Stack</h2>
 
-**Frontend:** React.js, Next.js, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js, Prisma, PostgreSQL, Firebase, REST APIs  
-**DevOps & Cloud:** Docker, GitHub Actions, AWS (EC2, S3, RDS), NGINX, Terraform  
-**AI & Automation:** Python, OpenAI API, LangChain, Gradio, Zapier, Selenium  
-**System Design:** Kafka, Redis, WebSockets, Load Balancers, CAP, OS Internals  
-**Languages:** JavaScript, Python, C++, SQL, Bash  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
+</p>
 
 ---
 
-## 📂 Notable Projects  
+### 📂 Featured Projects  
 
-📦 **AI IDE** – LangChain + Java + Python  
-🧠 Voice-controlled AI coding assistant with GPT-based autocompletion  
-
-📦 **Zoom Clone** – MERN + WebRTC + Docker  
-🎥 Real-time video conferencing with screen sharing and auth  
-
-📦 **Stock Dashboard** – React + Redis + WebSockets  
-📈 Live market updates with alerting system and high-frequency tracking  
-
-📦 **Research Assistant** – Python + Selenium + GPT  
-🔍 Automates search + summarization with voice interface  
-
-📦 **Docs Clone** – React + Firebase  
-📝 Realtime collaboration with document syncing  
-
-📦 **Bug Tracker SaaS** – Node.js + Redis + Docker  
-🐞 Issue tracking system with scalable multi-user architecture  
+| Project | Tech | Demo |
+|---------|------|------|
+| 🧠 AI IDE | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
+| 🎥 Zoom Clone | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
+| 📈 Stock Dashboard | React + Redis + WebSockets | Live market updates with alert system |
+| 🔍 Research Assistant | Python + GPT + Selenium | Automates research + summarization |
+| 📝 Docs Clone | React + Firebase | Realtime doc collaboration |
+| 🐞 Bug Tracker SaaS | Node.js + Redis + Docker | Scalable multi-user issue tracking |
 
 ---
 
-## 📜 Journey Summary  
+### 📊 GitHub Stats  
 
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=tokyonight" height="170"/>
+</p>
 
-📅 36 Weeks of Focus
-🧱 From UI to APIs, DevOps to Vector DBs
-🔁 Depth-first learning, shipped in public
-🎯 Result: A portfolio of real-world projects — scalable, monitored, and AI-powered
-
-```
-
----
-
-## 🧰 Project File Layout (Typical)
-
-```
-
-📦 project-name
-├── 📂 frontend          # React/Tailwind UI
-├── 📂 backend           # Express + Prisma
-├── 📂 devops            # Docker, CI/CD, IaC
-├── 📂 ai                # GPT API, LangChain
-├── 📂 docs              # Case studies + system design
-└── README.md           # Setup + architecture
-
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=radical&layout=compact" height="150"/>
+</p>
 
 ---
 
-## 🌟 What’s Next?  
-🔹 Releasing a **SaaS Dev Toolkit** for indie builders  
-🔹 Publishing deep-dive **system design case studies**  
-🔹 Launching a **YouTube devlog series**  
-🔹 Collaborating with AI x Web x DevOps builders worldwide  
+### <h2 align="center">✍️ Random Dev Quote</h2>
 
----
-
-## 📫 Let’s Connect  
-
-- 💼 **LinkedIn:** [linkedin.com/in/lakshita-singh-sisodia](https://www.linkedin.com/in/lakshita-singh-sisodia-796266290)  
-- 🧠 **Agency (Graphical Proximity)**  
-  - Instagram: [@graphical_proximity](https://www.instagram.com/graphical_proximity)  
-  - Twitter/X: [@Grap_Proximity](https://x.com/Grap_Proximity)  
-  - Email: [graphicalproximity@gmail.com](mailto:graphicalproximity@gmail.com)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
