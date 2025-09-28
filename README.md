@@ -1,45 +1,40 @@
-<a href="https://github.com/Lakshita-Sisodia" target="blank">
-  <img src="https://images.unsplash.com/photo-1607082349566-1873428d05ec?q=80&w=1400&auto=format&fit=crop" align="center" />
+<a href="https://github.com/lakshitasisodia" target="blank">
+  <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" align="center" alt="Workspace setup banner"/>
 </a>
 
+---
+
 <h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
-<h3 align="center">A product-focused Full-Stack Engineer, DevOps builder, and AI integrator 🚀</h3>
+<h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
 
 ---
 
-### 🧑‍💻 About Me  
+## 🐬 About Me  
 
-Hey! I’m **Lakshita**, a product-focused full-stack engineer who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
-I specialize in taking products from **idea → deployment**, with architecture-first thinking and real-world execution.  
+I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
+I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
 
-- 🎓 Depth-first learner who builds & shares in public  
-- 💼 DevOps-first engineer (CI/CD, AWS, Docker, Terraform)  
-- ⚡ AI integrator — GPT, LangChain, automation, vector DBs  
-- 🛠 Architect who values clarity, scalability, and system design  
-
----
-
-### 🚀 Highlights  
-
-✅ Builder’s mindset — from UI → infra  
-✅ DevOps pipelines, IaC, CI/CD, AWS  
-✅ AI integrations with GPT & automation  
-✅ SaaS developer — MVPs that scale  
-✅ System Design thinker  
+- 🎓 B.Tech in CSBS @ Narula Institute of Technology  
+- 💼 Founder @ **Graphical Proximity (Agency)**  
+- ⚡ SaaS Builder — from MVPs to deployable, monetizable systems  
+- ☁️ DevOps-first — CI/CD, Docker, Terraform, AWS, GitHub Actions  
+- 🧠 AI Integrator — GPT, LangChain, automation, vector DBs  
 
 ---
 
-### 🛠️ Tech Stack  
+## 🚀 Highlights  
 
-**Frontend:** React.js, Next.js, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js, Prisma, PostgreSQL, Firebase, REST APIs  
-**DevOps & Cloud:** Docker, GitHub Actions, AWS (EC2, S3, RDS), NGINX, Terraform  
-**AI & Automation:** Python, OpenAI API, LangChain, Gradio, Zapier, Selenium  
-**System Design:** Kafka, Redis, WebSockets, Load Balancers, CAP, OS Internals  
-**Languages:** JavaScript, Python, C++, SQL, Bash  
+✅ Builder’s mindset — from UI to infra  
+✅ Architect — system design with scalability in mind  
+✅ AI x DevOps — where automation meets intelligence  
+✅ SaaS Developer — deployable, monetizable, modular  
+
+---
+
+### <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/4UUvR72.gif" width="400"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
 </p>
 
 ---
@@ -48,67 +43,52 @@ I specialize in taking products from **idea → deployment**, with architecture-
 
 | Project | Tech | Demo |
 |---------|------|------|
-| 🧠 **AI IDE** | LangChain + Java + Python | — |
-| 🎥 **Zoom Clone** | MERN + WebRTC + Docker | — |
-| 📈 **Stock Dashboard** | React + Redis + WebSockets | — |
-| 🔍 **Research Assistant** | Python + Selenium + GPT | — |
-| 📝 **Docs Clone** | React + Firebase | — |
-| 🐞 **Bug Tracker SaaS** | Node.js + Redis + Docker | — |
-
----
-
-### 📌 Pinned Projects  
-
-<a href="https://github.com/Lakshita-Sisodia/AI-IDE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshita-Sisodia&repo=AI-IDE&theme=radical" />
-</a>
-<a href="https://github.com/Lakshita-Sisodia/Zoom-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshita-Sisodia&repo=Zoom-Clone&theme=radical" />
-</a>
+| 🧠 AI IDE | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
+| 🎥 Zoom Clone | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
+| 📈 Stock Dashboard | React + Redis + WebSockets | Live market updates with alert system |
+| 🔍 Research Assistant | Python + GPT + Selenium | Automates research + summarization |
+| 📝 Docs Clone | React + Firebase | Realtime doc collaboration |
+| 🐞 Bug Tracker SaaS | Node.js + Redis + Docker | Scalable multi-user issue tracking |
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshita-Sisodia&langs_count=10&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lakshita-Sisodia&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=radical&layout=compact" height="150"/>
 </p>
 
 ---
 
-### ⌛ Weekly Coding Stats  
+### <h2 align="center">📫 Connect with Me</h2>
 
+<p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
 <p align="center">
-  <img src="https://wakatime.com/share/@your_wakatime_id_here/f737c604-ac3b-40a5-ac25-1c0d7cb9f997.svg" width="340px"/>
-  <img src="https://wakatime.com/share/@your_wakatime_id_here/47b58851-bae0-4778-af09-31fb479c0ea0.svg" width="340px"/>
-</p>
-
----
-
-### ✍️ Intellectual Quote  
-
-<p align="center">
-  <em>"Simplicity is the ultimate sophistication." – Leonardo da Vinci</em>
-</p>
-
----
-
-### 📫 Connect with Me  
-
-<p align="center">Always open to collaborations, tech chats, and building together ⚡</p>
-<p align="center">
-  <a href="https://linkedin.com/in/lakshita-singh-sisodia" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/lakshita-singh-sisodia-796266290" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/graphical_proximity" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  <a href="https://www.instagram.com/graphical_proximity" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-  <a href="mailto:graphicalproximity@gmail.com" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail" height="30" width="40"/>
+  <a href="https://x.com/Grap_Proximity" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-> 💬 *“I build with intention. I ship with clarity. I share to empower.”*
+### <h2 align="center">💡 Intellectual Quote</h2>
+
+<p align="center">
+  <i>“Simplicity is the ultimate sophistication.” – Leonardo da Vinci</i>
+</p>
+
+---
+
+> 💬 “I build with intention. I ship with clarity. I share to empower.”  
+> ⭐ If any repo helps you, star it — or let’s collaborate on something greater.
