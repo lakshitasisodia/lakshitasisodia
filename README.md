@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1549490349-f55eb05f8846?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Pink workspace essentials laid out neatly" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/62628408/212048593-6c8a773d-959c-48c9-943e-a7e84a51e6b3.png" alt="Clean, aesthetic desk setup with code and coffee" width="100%"/>
 </p>
 
 ---
 
 <h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
 <h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshitasisodia&label=Profile%20views&color=6f42c1&style=flat" alt="lakshitasisodia" />
+</p>
 
 ---
 
@@ -22,15 +26,7 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### <h2 align="center">🛠️ Core Capabilities & Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
-</p>
-
----
-
-## 🚀 Highlights  
+## 🚀 Highlights & Architectural Mindset  
 
 ✅ Builder’s mindset — from UI to infra  
 ✅ Architect — system design with scalability in mind  
@@ -39,44 +35,52 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
+### <h2 align="center">🛠️ Core Capabilities & Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
+</p>
+
+---
+
 ### 📂 Featured Projects  
 
-| Project | Tech | Demo |
-|---------|------|------|
-| 🧠 AI IDE | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
-| 🎥 Zoom Clone | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
-| 📈 Stock Dashboard | React + Redis + WebSockets | Live market updates with alert system |
-| 🔍 Research Assistant | Python + GPT + Selenium | Automates research + summarization |
-| 📝 Docs Clone | React + Firebase | Realtime doc collaboration |
-| 🐞 Bug Tracker SaaS | Node.js + Redis + Docker | Scalable multi-user issue tracking |
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🧠 **AI IDE** | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
+| 🎥 **Zoom Clone** | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
+| 📈 **Stock Dashboard** | React + Redis + WebSockets | Live market updates with alert system |
+| 🔍 **Research Assistant** | Python + GPT + Selenium | Automates research + summarization |
+| 📝 **Docs Clone** | React + Firebase | Realtime doc collaboration |
+| 🐞 **Bug Tracker SaaS** | Node.js + Redis + Docker | Scalable multi-user issue tracking |
 
 ---
 
-### 📊 GitHub Stats  
+### <h2 align="center">📊 GitHub Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=radical&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=radical&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/lakshitasisodia" target="blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0OTM4d284aGtxZDRrZnB0MXc0aThnOWl4NWQ2ZG5icWFicjE2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L80yJd8XfQG0I/giphy.gif" width="400px" alt="Code running on screen"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lakshitasisodia&theme=onedark&margin-w=10&margin-h=10" alt="trophies"/>
   </a>
 </p>
 
 ---
 
-### <h2 align="center">💡 Intellectual Quote</h2>
+### <h2 align="center">✍️ Intellectual Perspective</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=9a7cff&backgroundColor=1e1e3f&borderColor=3a3a5f" alt="Inspirational Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=ff79c6&backgroundColor=1e1e3f&borderColor=bd93f9" alt="Inspirational Quote"/>
 </p>
 
 ---
@@ -93,18 +97,6 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
   </a>
   <a href="https://x.com/Grap_Proximity" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshitasisodia&label=Profile%20views&color=6f42c1&style=flat" alt="lakshitasisodia" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lakshitasisodia&theme=onedark&margin-w=10&margin-h=10" alt="trophies"/>
   </a>
 </p>
 
