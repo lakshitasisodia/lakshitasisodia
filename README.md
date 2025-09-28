@@ -1,5 +1,5 @@
 <a href="https://github.com/lakshitasisodia" target="blank">
-  <img src="https://i.imgur.com/VNP2tTx.gif" align="center"/>
+  <img src="https://images.unsplash.com/photo-1522202221044-48f1f5b67d09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHBpbmstd29ya3NwYWNlJTIwZWxlZ2FudHxlbnwwfHx8fDE2OTcwNzE2MjY&ixlib=rb-4.0.3&q=80&w=1080" align="center" style="border-radius:12px"/>
 </a>
 
 ---
@@ -7,29 +7,24 @@
 <h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
 <h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshitasisodia&label=Profile%20views&color=6f42c1&style=flat" alt="lakshitasisodia" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lakshitasisodia&theme=onedark&margin-w=10&margin-h=10" alt="trophies"/>
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  <a href="https://github.com/lakshitasisodia" target="blank">
-    <img src="https://media.tenor.com/OF2oQX_PQ9UAAAAM/dfg.gif" width="400px"/>
-  </a>
-</p>
+### <h2 align="center">🧬 About Me</h2>
+
+I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
+I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
+
+- 🎓 B.Tech in CSBS @ Narula Institute of Technology  
+- 💼 Founder @ **Graphical Proximity (Agency)**  
+- ⚡ SaaS Builder — from MVPs to deployable, monetizable systems  
+- ☁️ DevOps-first — CI/CD, Docker, Terraform, AWS, GitHub Actions  
+- 🧠 AI Integrator — GPT, LangChain, automation, vector DBs  
 
 ---
 
 ### <h2 align="center">📫 Connect with Me</h2>
 
-<p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
+<p align="center">Always open for collaboration, feedback, or meaningful tech conversations!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshita-singh-sisodia-796266290" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
@@ -44,22 +39,9 @@
 
 ---
 
-## 🐬 About Me  
+### <h2 align="center">🌟 Highlights</h2>
 
-I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
-I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
-
-- 🎓 B.Tech in CSBS @ Narula Institute of Technology  
-- 💼 Founder @ **Graphical Proximity (Agency)**  
-- ⚡ SaaS Builder — from MVPs to deployable, monetizable systems  
-- ☁️ DevOps-first — CI/CD, Docker, Terraform, AWS, GitHub Actions  
-- 🧠 AI Integrator — GPT, LangChain, automation, vector DBs  
-
----
-
-## 🚀 Highlights  
-
-✅ Builder’s mindset — from UI to infra  
+✅ Builder’s mindset — from UI to infrastructure  
 ✅ Architect — system design with scalability in mind  
 ✅ AI x DevOps — where automation meets intelligence  
 ✅ SaaS Developer — deployable, monetizable, modular  
@@ -74,7 +56,7 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### 📂 Featured Projects  
+### <h2 align="center">📂 Featured Projects</h2>
 
 | Project | Tech | Demo |
 |---------|------|------|
@@ -87,7 +69,7 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### 📊 GitHub Stats  
+### <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical" height="170"/>
@@ -100,10 +82,10 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### <h2 align="center">✍️ Random Dev Quote</h2>
+### <h2 align="center">💡 Intellectual Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=Einstein" alt="Intellectual Quote"/>
 </p>
 
 ---
