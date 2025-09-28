@@ -1,5 +1,5 @@
 <a href="https://github.com/lakshitasisodia" target="blank">
-  <img src="https://images.unsplash.com/photo-1612831813446-0480e9bfc0ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" align="center" alt="Workspace" />
+  <img src="https://unsplash.com/photos/pink-workspace-essentials-laid-out-neatly-doppoDO26uE" align="center" alt="Workspace" />
 </a>
 
 ---
@@ -42,6 +42,14 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 - 🧠 AI Integrator — GPT, LangChain, automation, vector DBs  
 
 ---
+### <h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
+</p>
+
+---
+
 
 ## 🚀 Highlights  
 
@@ -62,14 +70,6 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 | 🔍 Research Assistant | Python + GPT + Selenium | Automates research + summarization |
 | 📝 Docs Clone | React + Firebase | Realtime doc collaboration |
 | 🐞 Bug Tracker SaaS | Node.js + Redis + Docker | Scalable multi-user issue tracking |
-
----
-
-### <h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
-</p>
 
 ---
 
