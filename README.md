@@ -1,5 +1,5 @@
 <a href="https://github.com/lakshitasisodia" target="blank">
-  <img src="https://unsplash.com/photos/pink-workspace-essentials-laid-out-neatly-doppoDO26uE" align="center" alt="Workspace" />
+  <img src="https://unsplash.com/photos/landscape-photography-of-mountains-v0Qujn-zHJk" align="center" alt="Workspace" />
 </a>
 
 ---
