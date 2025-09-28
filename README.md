@@ -13,7 +13,7 @@
 
 ---
 
-## 🐬 About Me  
+## 🐬 About Me: The Architect   
 
 I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
 I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
@@ -26,12 +26,12 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-## 🚀 Highlights & Architectural Mindset  
+## 🚀 Architectural Highlights  
 
-✅ Builder’s mindset — from UI to infra  
-✅ Architect — system design with scalability in mind  
-✅ AI x DevOps — where automation meets intelligence  
-✅ SaaS Developer — deployable, monetizable, modular  
+- ✅ **System Architect**: Building scalable designs with reliability in mind.
+- ✅ **AI x DevOps**: Where automation meets intelligence for streamlined workflows.
+- ✅ **Full-Stack Mastery**: From clean UI/UX to robust, deployed infrastructure.
+- ✅ **SaaS Developer**: Focused on deployable, monetizable, and modular solutions.
 
 ---
 
@@ -45,29 +45,27 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ### 📂 Featured Projects  
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🧠 **AI IDE** | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
-| 🎥 **Zoom Clone** | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
-| 📈 **Stock Dashboard** | React + Redis + WebSockets | Live market updates with alert system |
-| 🔍 **Research Assistant** | Python + GPT + Selenium | Automates research + summarization |
-| 📝 **Docs Clone** | React + Firebase | Realtime doc collaboration |
-| 🐞 **Bug Tracker SaaS** | Node.js + Redis + Docker | Scalable multi-user issue tracking |
+| Project | Core Tech | Focus |
+|---------|-----------|-------|
+| 🧠 **AI IDE** | LangChain + Python | GPT-based AI coding assistant |
+| 🎥 **Zoom Clone** | MERN + WebRTC | Real-time video conferencing |
+| 📈 **Stock Dashboard** | React + Redis | Live market alerts and data |
+| 🔍 **Research Assistant** | Python + GPT | Research automation & summarization |
+| 📝 **Docs Clone** | React + Firebase | Realtime document collaboration |
+| 🐞 **Bug Tracker SaaS** | Node.js + Docker | Scalable multi-user issue tracking |
 
 ---
 
 ### <h2 align="center">📊 GitHub Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=tokyonight&hide_border=true&title_color=bd93f9" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=dark&hide_border=true&stroke=bd93f9" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=radical&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -103,4 +101,4 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 ---
 
 > 💬 “I build with intention. I ship with clarity. I share to empower.”  
-> ⭐ If any repo helps you, star it — or let’s collaborate on something greater.
+> ⭐ If any repository aids your journey, feel free to **star it** — or let’s collaborate on something even greater.
