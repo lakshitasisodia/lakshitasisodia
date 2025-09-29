@@ -1,8 +1,3 @@
-<a href="https://github.com/lakshitasisodia" target="blank">
-  <img src="https://images.unsplash.com/photo-1612831813446-0480e9bfc0ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" align="center" alt="Workspace" />
-</a>
-
----
 
 <h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
 <h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
@@ -13,7 +8,7 @@
 
 ---
 
-### <h2 align="center">📫 Connect with Me</h2>
+## 📫 Connect with Me  
 
 <p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
 <p align="center">
@@ -30,7 +25,15 @@
 
 ---
 
-## 🐬 About Me  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,ts,js,cpp,git&perline=8"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me  
 
 I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
 I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
@@ -52,28 +55,31 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### 📂 Featured Projects  
+## 📂 Featured Projects  
 
-| Project | Tech | Demo |
-|---------|------|------|
-| 🧠 AI IDE | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
-| 🎥 Zoom Clone | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
-| 📈 Stock Dashboard | React + Redis + WebSockets | Live market updates with alert system |
-| 🔍 Research Assistant | Python + GPT + Selenium | Automates research + summarization |
-| 📝 Docs Clone | React + Firebase | Realtime doc collaboration |
-| 🐞 Bug Tracker SaaS | Node.js + Redis + Docker | Scalable multi-user issue tracking |
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🧠 **AI IDE** | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
+| 🎥 **Zoom Clone** | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
+| 📈 **Stock Dashboard** | React + Redis + WebSockets | Live market updates with alert system |
+| 🔍 **Research Assistant** | Python + GPT + Selenium | Automates research + summarization |
+| 📝 **Docs Clone** | React + Firebase | Realtime doc collaboration |
+| 🐞 **Bug Tracker SaaS** | Node.js + Redis + Docker | Scalable multi-user issue tracking |
 
 ---
 
-### <h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,js,cpp,git&perline=8"/>
+  <a href="https://github.com/lakshitasisodia/AI-IDE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitasisodia&repo=LotherHey-Spotify-clone&theme=radical" />
+  </a>
+  <a href="https://github.com/lakshitasisodia/Zoom-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitasisodia&repo=ai-image-generator&theme=radical" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical" height="170"/>
@@ -86,7 +92,7 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 
 ---
 
-### <h2 align="center">💡 Intellectual Quote</h2>
+## 💡 Intellectual Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=Knowledge%20is%20power,%20but%20wisdom%20is%20elegance.&author=Anonymous&type=horizontal&theme=radical" alt="Intellectual Quote"/>
@@ -95,4 +101,4 @@ I don’t just follow roadmaps — I **am** the roadmap: built through depth-fir
 ---
 
 > 💬 “I build with intention. I ship with clarity. I share to empower.”  
-> ⭐ If any repo helps you, star it — or let’s collaborate on something greater.
+> ⭐ If any repo helps you, star it — or let’s collaborate on something greater.  
