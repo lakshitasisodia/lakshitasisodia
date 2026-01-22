@@ -1,104 +1,129 @@
+# Lakshita Singh Sisodia
 
-<h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
-<h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
+**Full-Stack Engineer · DevOps · AI Systems**  
+Building production-grade systems that scale. From infrastructure to interface.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshitasisodia&label=Profile%20views&color=6f42c1&style=flat" alt="lakshitasisodia" />
-</p>
-
----
-
-## 📫 Connect with Me  
-
-<p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshita-singh-sisodia-796266290" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/graphical_proximity" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://x.com/Grap_Proximity" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshita-singh-sisodia-796266290)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x)](https://x.com/Grap_Proximity)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/graphical_proximity)
 
 ---
 
-## 🛠️ Tech Stack  
+## System Architecture
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,ts,js,cpp,git&perline=8"/>
-</p>
+```
+┌─────────────────────────────────────────────────────────┐
+│  Frontend Layer    │  React · Next.js · TypeScript      │
+├─────────────────────────────────────────────────────────┤
+│  Backend Layer     │  Node.js · Express · Prisma        │
+├─────────────────────────────────────────────────────────┤
+│  Data Layer        │  PostgreSQL · Redis · Firebase     │
+├─────────────────────────────────────────────────────────┤
+│  Infrastructure    │  Docker · AWS · Terraform · Nginx  │
+├─────────────────────────────────────────────────────────┤
+│  AI/ML Pipeline    │  Python · LangChain · GPT APIs     │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Core Competencies
+
+**Engineering Philosophy:** Ship fast. Scale smart. Automate everything.
+
+- **Full-Stack Development** — End-to-end ownership from database schema to deployment pipelines
+- **DevOps Engineering** — CI/CD automation, containerization, infrastructure as code
+- **AI Integration** — Production LLM applications, RAG systems, intelligent automation
+- **System Design** — Scalable architectures, microservices, real-time systems
+- **SaaS Development** — Multi-tenant systems, monetization, observability
+
+## Technology Arsenal
+
+**Languages & Frameworks**
+```
+TypeScript · JavaScript · Python · C++ · Node.js · React · Next.js
+```
+
+**Infrastructure & DevOps**
+```
+Docker · AWS (EC2, S3, Lambda) · Terraform · Nginx · GitHub Actions
+```
+
+**Databases & Caching**
+```
+PostgreSQL · Redis · Firebase · Prisma ORM
+```
+
+**AI/ML Stack**
+```
+LangChain · OpenAI GPT · Vector Databases · Selenium
+```
+
+## Featured Engineering Work
+
+### 🧠 AI-Powered IDE
+**LangChain · Java · Python · GPT-4**  
+Intelligent code completion and refactoring assistant with context-aware suggestions. Custom LSP integration for real-time AI assistance.
+
+### 🎥 Real-Time Video Platform
+**MERN · WebRTC · Socket.io · Docker**  
+Scalable video conferencing with P2P mesh networking, screen sharing, and JWT-based authentication. Containerized deployment with load balancing.
+
+### 📈 Live Market Dashboard
+**React · Redis · WebSockets · Chart.js**  
+Sub-second market data updates with intelligent alert system. Redis pub/sub for real-time price streaming.
+
+### 🔍 Research Automation Engine
+**Python · GPT-4 · Selenium · BeautifulSoup**  
+Autonomous research agent that scrapes, analyzes, and synthesizes information. Vector similarity search for context retrieval.
+
+### 🐞 SaaS Bug Tracker
+**Node.js · PostgreSQL · Redis · Docker**  
+Multi-tenant issue tracking with role-based access control. Horizontal scaling with session management in Redis.
+
+### 📝 Collaborative Document Editor
+**React · Firebase Realtime DB · Operational Transform**  
+Google Docs-style collaboration with conflict-free replicated data types (CRDTs).
+
+## Current Focus
+
+```bash
+$ echo "Building in public"
+→ AI agent frameworks for autonomous task execution
+→ Kubernetes orchestration for microservices
+→ Vector embeddings for semantic search systems
+→ Edge computing with Cloudflare Workers
+```
+
+## Stats & Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8)
+
+</div>
+
+## Professional Background
+
+**Founder** — Graphical Proximity (Agency)  
+**Education** — B.Tech in Computer Science, Narula Institute of Technology  
+**Approach** — Product-first engineering. Every line of code ships with purpose.
 
 ---
 
-## 🧑‍💻 About Me  
+### Let's Build
 
-I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
-I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
+Open to collaborating on systems that matter. If you're working on something interesting in AI, DevOps, or scalable SaaS — let's talk.
 
-- 🎓 B.Tech in CSBS @ Narula Institute of Technology  
-- 💼 Founder @ **Graphical Proximity (Agency)**  
-- ⚡ SaaS Builder — from MVPs to deployable, monetizable systems  
-- ☁️ DevOps-first — CI/CD, Docker, Terraform, AWS, GitHub Actions  
-- 🧠 AI Integrator — GPT, LangChain, automation, vector DBs  
+**Principle:** *"Depth over breadth. Production over prototypes. Impact over impressions."*
+
+⭐ Found something useful? Star the repo. Have questions? Open an issue. Want to collaborate? Send a PR.
 
 ---
 
-## 🚀 Highlights  
+<div align="center">
 
-✅ Builder’s mindset — from UI to infra  
-✅ Architect — system design with scalability in mind  
-✅ AI x DevOps — where automation meets intelligence  
-✅ SaaS Developer — deployable, monetizable, modular  
+![Profile Views](https://komarev.com/ghpvc/?username=lakshitasisodia&color=blueviolet&style=flat-square)
 
----
-
-## 📂 Featured Projects  
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🧠 **AI IDE** | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
-| 🎥 **Zoom Clone** | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
-| 📈 **Stock Dashboard** | React + Redis + WebSockets | Live market updates with alert system |
-| 🔍 **Research Assistant** | Python + GPT + Selenium | Automates research + summarization |
-| 📝 **Docs Clone** | React + Firebase | Realtime doc collaboration |
-| 🐞 **Bug Tracker SaaS** | Node.js + Redis + Docker | Scalable multi-user issue tracking |
-
----
-
-<p align="center">
-  <a href="https://github.com/lakshitasisodia/AI-IDE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitasisodia&repo=LotherHey-Spotify-clone&theme=radical" />
-  </a>
-  <a href="https://github.com/lakshitasisodia/Zoom-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitasisodia&repo=ai-image-generator&theme=radical" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=radical&layout=compact" height="150"/>
-</p>
-
----
-
-## 💡 Intellectual Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Knowledge%20is%20power,%20but%20wisdom%20is%20elegance.&author=Anonymous&type=horizontal&theme=radical" alt="Intellectual Quote"/>
-</p>
-
----
-
-> 💬 “I build with intention. I ship with clarity. I share to empower.”  
-> ⭐ If any repo helps you, star it — or let’s collaborate on something greater.  
+</div>
