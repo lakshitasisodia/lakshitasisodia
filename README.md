@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lakshita Singh Sisodia</h1>
-<h3 align="center">Full-Stack | DevOps | AI — Builder of scalable, real-world systems 🚀</h3>
+<h1 align="center">Hi 👋, I'm Lakshita Sisodia</h1>
+<h3 align="center">Full-Stack Engineer | DevOps Architect | AI Builder — Shipping production-grade systems 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakshitasisodia&label=Profile%20views&color=6f42c1&style=flat" alt="lakshitasisodia" />
@@ -7,9 +7,130 @@
 
 ---
 
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgresql,mysql,mongodb,mongoose,firebase,redis,aws,docker,nginx,terraform,prometheus,grafana,github,git,python,cpp,selenium,pandas,numpy,pytorch,tensorflow"/>
+</p>
+
+### 🎯 Currently Mastering
+```
+🔹 Infrastructure as Code → Terraform (AWS VPC, EC2, RDS)
+🔹 Production DevOps → Docker Multi-Stage Builds, GitHub Actions CI/CD
+🔹 Backend Architecture → Next.js App Router, Prisma ORM, PostgreSQL
+🔹 Security Engineering → JWT, RBAC, SQL Injection Prevention, XSS Mitigation
+🔹 Monitoring → Prometheus + Grafana Dashboards
+```
+
+---
+
+## 🧑‍💻 About Me  
+
+I'm **Lakshita — a systems thinker who architects, builds, and ships**.  
+From pixel-perfect UIs to infrastructure-as-code, I engineer **end-to-end solutions** that scale.
+
+- 🎓 B.Tech in CSBS @ Narula Institute of Technology  
+- 💼 Founder @ **Graphical Proximity** — A development agency building MVPs to production systems  
+- 🏗️ **Full-Stack + DevOps** — From React components to Terraform modules  
+- 🔐 **Security-First** — Building with RBAC, JWT, and secure-by-design principles  
+- 🤖 **AI Integration** — GPT APIs, LangChain, automation pipelines  
+- 📊 **Data Engineering** — Pandas, NumPy, ETL pipelines, data visualization  
+
+---
+
+## 🚀 What I Build  
+
+✅ **Production-Grade SaaS** — Type-safe, tested, deployed  
+✅ **DevOps Pipelines** — CI/CD with Docker, GitHub Actions, Terraform  
+✅ **Scalable Backends** — Next.js, Node.js, PostgreSQL, Prisma  
+✅ **Data Automation** — Python scripts for ETL, web scraping, task automation  
+✅ **Secure Systems** — Authentication, authorization, input validation, encrypted data flow  
+
+---
+
+## 📂 Featured Projects  
+
+<table>
+<tr>
+<td width="50%" >
+
+### 🏢 [Ni3S - Enterprise Management System](https://github.com/lakshitasisodia/Ni3S.git)
+**Tech:** Next.js · TypeScript · Prisma · PostgreSQL · NextAuth  
+**Features:**  
+- 🔐 Role-Based Access Control (RBAC)
+- 📊 Real-time Analytics Dashboard
+- 🎯 Multi-tenant Architecture
+- 🔒 JWT + OAuth Authentication
+- 📈 Production-ready with Docker
+
+</td>
+<td width="50%">
+
+### 🎯 [Kendra 2.0 - Advanced Platform](https://github.com/lakshitasisodia/Kendra-2.0.git)
+**Tech:** React · Node.js · MongoDB · Express · Docker  
+**Features:**  
+- ⚡ Microservices Architecture
+- 🔄 CI/CD with GitHub Actions
+- 🐳 Dockerized Multi-container Setup
+- 📡 WebSocket Real-time Updates
+- 🛡️ Security Hardened (XSS, CSRF Protection)
+
+</td>
+</tr>
+</table>
+
+### 🎨 More Upcoming Projects
+
+| Project | Stack | Highlights |
+|---------|-------|-----------|
+| 🧠 **AI Research Assistant** | Python · GPT · Selenium · Pandas | Automated research + data extraction + summarization pipeline |
+| 🎥 **Real-time Collaboration Platform** | MERN · WebRTC · Docker · Redis | Video conferencing with screen sharing and chat |
+| 📈 **Stock Market Dashboard** | React · TypeScript · WebSockets · Redis | Live market data with custom alerts and analytics |
+| 🍕 **Full-Stack Food Ordering** | Next.js · Prisma · Stripe API | E-commerce with payment integration and order tracking |
+| 🐞 **Bug Tracker SaaS** | Node.js · PostgreSQL · Docker · NGINX | Multi-user issue tracking with RBAC |
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=lakshitasisodia&cc=000&tc=fff&ic=fff&bc=000" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+## ⭐ Commits Stats  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshitasisodia&theme=radical" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshitasisodia&theme=radical" height="170"/>
+</p>
+
+---
+
+## 💡 Philosophy  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=The%20best%20code%20is%20the%20code%20you%20don't%20have%20to%20write.%20The%20best%20system%20is%20the%20one%20that%20runs%20itself.&author=Engineering%20Principle&type=horizontal&theme=radical" alt="Engineering Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💬 "Build with intention. Deploy with confidence. Scale with intelligence."</b>
+</p>
+
+<p align="center">
+  ⭐ If my work helps you, star the repos — or let's collaborate on something impactful.<br>
+  📬 Always open to discussing system design, DevOps, or building production-grade applications.
+</p>
+
+---
+
 ## 📫 Connect with Me  
 
-<p align="center">Always open for collaboration, feedback, or a meaningful dev chat!</p>
+<p align="center">Open for collaboration, technical discussions, and building the next big thing!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshita-singh-sisodia-796266290" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
@@ -24,80 +145,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgresql,firebase,aws,docker,nginx,terraform,python,ts,js,cpp,git&perline=8"/>
+  <i>Last Updated: January 2025 | Continuously shipping, learning, and growing 🚀</i>
 </p>
-
----
-
-## 🧑‍💻 About Me  
-
-I’m **Lakshita — a product-focused full-stack engineer** who ships scalable web apps, DevOps pipelines, and AI-powered tools.  
-I don’t just follow roadmaps — I **am** the roadmap: built through depth-first learning, tested in production, and shared in public.  
-
-- 🎓 B.Tech in CSBS @ Narula Institute of Technology  
-- 💼 Founder @ **Graphical Proximity (Agency)**  
-- ⚡ SaaS Builder — from MVPs to deployable, monetizable systems  
-- ☁️ DevOps-first — CI/CD, Docker, Terraform, AWS, GitHub Actions  
-- 🧠 AI Integrator — GPT, LangChain, automation, vector DBs  
-
----
-
-## 🚀 Highlights  
-
-✅ Builder’s mindset — from UI to infra  
-✅ Architect — system design with scalability in mind  
-✅ AI x DevOps — where automation meets intelligence  
-✅ SaaS Developer — deployable, monetizable, modular  
-
----
-
-## 📂 Featured Projects  
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🧠 **AI IDE** | LangChain + Java + Python | AI coding assistant with GPT-based autocompletion |
-| 🎥 **Zoom Clone** | MERN + WebRTC + Docker | Real-time video conferencing with auth & screen share |
-| 📈 **Stock Dashboard** | React + Redis + WebSockets | Live market updates with alert system |
-| 🔍 **Research Assistant** | Python + GPT + Selenium | Automates research + summarization |
-| 📝 **Docs Clone** | React + Firebase | Realtime doc collaboration |
-| 🐞 **Bug Tracker SaaS** | Node.js + Redis + Docker | Scalable multi-user issue tracking |
-
----
-
-<p align="center">
-  <a href="https://github.com/lakshitasisodia/AI-IDE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitasisodia&repo=LotherHey-Spotify-clone&theme=radical" />
-  </a>
-  <a href="https://github.com/lakshitasisodia/Zoom-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitasisodia&repo=ai-image-generator&theme=radical" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshitasisodia&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshitasisodia&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitasisodia&langs_count=10&theme=radical&layout=compact" height="150"/>
-</p>
-
----
-
-## 💡 Intellectual Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Knowledge%20is%20power,%20but%20wisdom%20is%20elegance.&author=Anonymous&type=horizontal&theme=radical" alt="Intellectual Quote"/>
-</p>
-
----
-
-> 💬 “I build with intention. I ship with clarity. I share to empower.”  
-> ⭐ If any repo helps you, star it — or let’s collaborate on something greater. 
